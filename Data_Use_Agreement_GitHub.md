@@ -57,7 +57,20 @@ Participation is voluntary. The Data Provider may decline to provide any
 requested information and may withdraw from the study subject to the
 terms described below.
 
-## 2. Types of Data Provided
+## 2. Benefits
+
+Participation may provide meaningful benefits to both the Data Provider
+and the broader agricultural community. By contributing farm data, the
+Data Provider may help advance research on **\[research topic\]**,
+improve understanding of production, animal health, environmental, and
+management patterns, and support evidence-based decisions that can
+strengthen long-term farm operations and sustainability.
+
+The research resulting from these data may inform better resource
+management, more effective agricultural practices, and future studies
+that benefit farmers, producers, researchers, and related communities.
+
+## 3. Types of Data Provided
 
 The Data Provider will provide the selected data types of the following
 information:
@@ -77,23 +90,39 @@ information:
 The Researcher will collect only data reasonably necessary to accomplish
 the stated research objectives.
 
-## 3. Ownership and Rights
+## 4. Data Accuracy
 
-The Data Provider retains ownership of the farm data they contribute
-unless otherwise expressly agreed to in writing.
+The Data Provider will make reasonable efforts to provide accurate
+information but does not guarantee that all historical or manually
+recorded data are complete or error-free.
+
+The Researcher will document relevant limitations, missing information,
+or data-quality issues when reporting research findings.
+
+## 5. Ownership, Rights, and License
+
+The Data Provider retains all right, title, and interest in and to the
+farm data contributed under this Agreement unless otherwise expressly
+agreed in writing.
 
 Providing data to the Researcher does not constitute a transfer of
-ownership of the underlying farm records or information.
+ownership of the underlying farm records or information. The Data
+Provider may choose the scope of the license granted to the Researcher by
+completing the options below.
 
-The Data Provider grants the Researcher a **\[non-exclusive,
-royalty-free\]** license to access, store, analyze, and use the
-contributed data for the research purposes described in this Agreement.
+### License Scope
 
-This Agreement does not grant the Researcher permission to sell the Data
-Provider's identifiable farm data or use it for unrelated commercial
-purposes without additional written authorization.
+The Data Provider grants the Researcher a **[Select License Type]** license to access, store, analyze, and use the contributed data for the following purposes:
 
-## 4. Data Privacy and Confidentiality
+The selected license includes, as applicable, the right to:
+
+-  **[add license specific criteria]**
+
+The chosen license does not include the right to sell, transfer, or use
+the Data Provider's identifiable farm data for unrelated commercial
+purposes unless additional written authorization is expressly provided.
+
+## 6. Data Privacy and Confidentiality
 
 The Researcher will take reasonable measures to protect confidential
 farm information.
@@ -114,7 +143,7 @@ Because some farm characteristics may be inherently identifiable, the
 Researcher will discuss potential identification risks with the Data
 Provider when relevant.
 
-## 5. Data Storage and Security
+## 7. Data Storage and Security
 
 Research data will be stored using **\[institutional secure server/cloud
 storage/database\]**.
@@ -131,7 +160,7 @@ Data will be retained for **\[X years\]**, after which it will be
 securely deleted or retained in an appropriately controlled research
 archive when necessary for scientific or institutional purposes.
 
-## 6. FAIR Data Principles
+## 8. FAIR Data Principles
 
 The Researcher will manage research data according to the **FAIR
 principles: Findable, Accessible, Interoperable, and Reusable**, while
@@ -187,7 +216,7 @@ The Researcher will provide sufficient documentation, including data
 dictionaries, methodology, and relevant metadata, to allow responsible
 interpretation and reuse of datasets.
 
-## 7. Data Sharing and Publication
+## 9. Data Sharing and Publication
 
 The Researcher may use the data to produce:
 
@@ -208,7 +237,7 @@ additional permission from the Data Provider.
 When appropriate, aggregated or de-identified results may be shared
 through research publications or data repositories.
 
-## 8. Secondary Research Use
+## 10. Secondary Research Use
 
 The Data Provider authorizes use of the contributed data for:
 
@@ -224,7 +253,7 @@ Any use substantially different from the purposes described above will
 require additional authorization when required by applicable law,
 institutional policy, or this Agreement.
 
-## 9. Withdrawal
+## 11. Withdrawal
 
 The Data Provider may request withdrawal from the research project by
 contacting **\[Research Contact\]**.
@@ -240,27 +269,6 @@ The Researcher will make reasonable efforts to delete or discontinue use
 of identifiable data that have not yet been incorporated into completed
 research outputs, subject to applicable legal, regulatory, and
 institutional requirements.
-
-## 10. Data Accuracy
-
-The Data Provider will make reasonable efforts to provide accurate
-information but does not guarantee that all historical or manually
-recorded data are complete or error-free.
-
-The Researcher will document relevant limitations, missing information,
-or data-quality issues when reporting research findings.
-
-## 11. Benefits and Risks
-
-Participation may contribute to improved scientific understanding of
-**\[research topic\]** and may support future research benefiting
-farmers, animals, agriculture, or related communities.
-
-Potential risks include unintended disclosure of confidential farm
-information, identification of the Data Provider, or inappropriate
-interpretation or reuse of data.
-
-The Researcher will take reasonable steps to minimize these risks.
 
 ## 12. Compensation
 
@@ -278,22 +286,21 @@ may be directed to:
 
 By signing below, the Data Provider confirms that:
 
--   They have read and understood this Agreement;
--   They understand the purpose of the research;
+-   They have read and understood this Agreement
+-   They understand the purpose of the research
 -   They understand what types of farm data will be collected or
-    provided;
--   They understand how their data will be stored, analyzed, and
-    potentially shared;
+    provided
+-   They understand how their data will be stored and analyzed, and
+    potentially shared
 -   They understand the measures that will be taken to protect
-    confidential information;
+    confidential information
+-   The signer acknowledges that they have read and understand the terms of the
+    license granted under this Agreement, including any limitations on use,
+    sharing, and commercial application of the data.
 -   They understand that FAIR data practices may include creation and
     sharing of metadata and, where permitted, appropriately
-    de-identified or aggregated datasets;
--   They understand that FAIR principles do not automatically require
-    confidential farm-level data to be publicly released;
--   They understand their rights regarding withdrawal and data use; and
--   They voluntarily agree to provide their farm data for the purposes
-    described in this Agreement.
+    de-identified or aggregated datasets
+-   They understand their rights regarding withdrawal and data use
 
 ## Signatures
 
